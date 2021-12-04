@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color:blueviolet;
+}
+
+body {
+    background-color: aquamarine;
+    margin: 10vw;
+    padding: 5vw;
+}
+
+a {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    flex-direction: row;
+}
